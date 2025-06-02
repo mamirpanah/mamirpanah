@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamirpanah&label=Profile%20views&color=0e75b6&style=flat" alt="mamirpanah" /> </p>
 
-- 🌱 I’m currently learning **DevOps tools**
-
 - 📫 How to reach me **amirpanah.mohammad2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
